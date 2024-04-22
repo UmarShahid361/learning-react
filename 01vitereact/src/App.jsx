@@ -1,9 +1,10 @@
 
+import Sinister from "./sinister"
 
 function App() {
 
   return (
-    <h1> Hello! Sinister Chill </h1>
+    <Sinister></Sinister>
   )
 }
 
