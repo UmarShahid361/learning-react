@@ -1,5 +1,6 @@
 function Sinister() {
-  return <h3>Sinister Chill</h3>;
+  const username = "Umar Sandhu"
+  return <h3>Sinister Chill {username} </h3>;
 }
 
 export default Sinister;
