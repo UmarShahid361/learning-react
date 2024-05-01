@@ -1,4 +1,5 @@
-[
+{
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -29,7 +30,7 @@
     },
     {
       "id": "3",
-      "title": "React.js Dev",
+      "title": "React.js Developer",
       "type": "Full-Time",
       "location": "Brooklyn, NY",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
@@ -84,3 +85,4 @@
       }
     }
   ]
+}
